@@ -30,8 +30,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanmay-cloud67&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmay-cloud67&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="./profile/stats.svg" height="170"/>
+  <img src="./profile/top-langs.svg" height="170"/>
 </p>
 
 ---
@@ -39,7 +39,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tanmay-cloud67&theme=tokyonight&hide_border=true" />
+  <img src="./profile/streak.svg" />
 </p>
 
 ---
