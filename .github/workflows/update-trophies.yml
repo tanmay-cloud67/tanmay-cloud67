@@ -14,16 +14,16 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v6
+        uses: actions/checkout@v4
 
       - name: Generate trophies
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
-          username: ${{ github.repository_owner }}
+          username: tanmay-cloud67
           output_path: profile/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit trophies
+      - name: Commit trophy
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
