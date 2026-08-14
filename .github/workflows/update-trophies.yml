@@ -1,9 +1,9 @@
 name: Update GitHub Trophies
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 4 * * *"
-  workflow_dispatch:
 
 permissions:
   contents: write
@@ -16,12 +16,21 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Create profile folder
+        run: mkdir -p profile
+
       - name: Generate trophies
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: tanmay-cloud67
           output_path: profile/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Check generated file
+        run: |
+          echo "Checking trophy file..."
+          ls -la profile/
+          test -f profile/trophy.svg
 
       - name: Commit trophy
         run: |
