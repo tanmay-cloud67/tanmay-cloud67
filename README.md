@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Tanmay SN
-
-### 💻 Aspiring Developer | Learning, Building & Exploring
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&height=50&lines=Hi+I+Am+Tanmay!;IT+Student;Aspiring+Data+Analyst;Learning+Gen+AI+And+Python" alt="Typing Effect" />
+</p>
 
 🌱 Currently learning **Python, Java, C & Web Development**
 🎨 Interested in **Web Design & Graphic Design**
