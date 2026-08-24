@@ -52,16 +52,6 @@
 
 ---
 
-## 🎮 Beyond Code
-
-When I'm not coding, you'll probably find me playing:
-
-🎮 **RDR2** • **GTA** • **Minecraft**
-🔫 **BGMI** • **CODM**
-👑 **Clash Royale**
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
