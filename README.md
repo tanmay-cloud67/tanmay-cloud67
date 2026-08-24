@@ -5,7 +5,7 @@
 🌱 Currently learning **Python, Java, C & Web Development**
 🎨 Interested in **Web Design & Graphic Design**
 🚀 Learning by building things and experimenting with new ideas
-🎮 Gamer who enjoys **Story mode games**
+🎮 Gamer who enjoys Story mode games
 
 ---
 
