@@ -1,97 +1,94 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&height=50&lines=Hi+I+Am+Tanmay!;IT+Student;Aspiring+Data+Analyst;Learning+Gen+AI+And+Python" alt="Typing Effect" />
-</p>
+<div align="center">
 
-🌱 Currently learning **Python, Java, C & Web Development**
-🎨 Interested in **Web Design & Graphic Design**
-🚀 Learning by building things and experimenting with new ideas
-🎮 Gamer who enjoys Story mode games
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I'm+Tanmay+S+N+%F0%9F%91%8B;AI%2FML+Student+%7C+Developer;Building%2C+Learning+%26+Experimenting;Welcome+to+my+GitHub+%F0%9F%9A%80" alt="Typing animation" />
 
----
+<br>
 
-## 🧑‍💻 About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7F00FF&height=120&section=header" width="100%"/>
 
-* 🌱 Currently learning **Python, Java, C, HTML, Git & GitHub**
-* 💻 Exploring **Web Development**
-* 🎨 Interested in **Web Designing & Graphic Designing**
-* 🚀 Improving my skills one project at a time
-* 🎮 Gaming is part of the journey too
+</div>
 
 ---
 
-## 💻 Tech Stack
+## 👨‍💻 About Me
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,git,github" />
-</p>
+I'm **Tanmay S N**, an aspiring developer and AI/ML student who enjoys building things, learning new technologies, and experimenting with ideas.
+
+- 🌱 Currently learning **Python, Java, C & Web Development**
+- 💻 Exploring **AI/ML and software development**
+- 🎨 Interested in **Web Design & Graphic Design**
+- 🧠 Learning by building and experimenting
+- 🎮 Gamer who enjoys story-driven games
+- 🚀 Always working on improving my skills
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,c,html,git,github,vscode" />
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="./profile/stats.svg" height="170"/>
-  <img src="./profile/top-langs.svg" height="170"/>
-</p>
+<div align="center">
+
+<img src="./profile/stats.svg" height="170" />
+
+<img src="./profile/top-langs.svg" height="170" />
+
+</div>
 
 ---
 
 ## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="./profile/streak.svg" />
-</p>
+<div align="center">
+
+<img src="./profile/streak.svg" />
+
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="./profile/trophy.svg" />
-</p>
+<div align="center">
+
+<img src="./profile/trophy.svg" />
+
+</div>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/tanmay-sn-9097a22bb/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://www.instagram.com/tanmay.sn_/">
-    <img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:tanmaysn911@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
----
+<a href="https://www.linkedin.com/in/tanmay-sn-9097a22bb">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-## 👀 Profile Views
+<a href="https://www.instagram.com/tanmay.sn_/">
+  <img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tanmay-cloud67&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<a href="mailto:tanmaysn09@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-00D9FF?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
----
+<a href="https://github.com/tanmay-cloud67">
+  <img src="https://img.shields.io/badge/GitHub-tanmay--cloud67-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<p align="center">
-  💡 <i>Learning today. Building tomorrow.</i>
-</p>
+</div>
 
+### ⚡ Learning today. Building tomorrow.
 
-<!--
-**tanmay-cloud67/tanmay-cloud67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00D9FF&height=100&section=footer" width="100%"/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
