@@ -24,7 +24,7 @@ jobs:
         with:
           username: tanmay-cloud67
           file: profile/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ github.token }}
 
       - name: Check generated file
         run: |
